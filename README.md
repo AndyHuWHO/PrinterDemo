@@ -5,6 +5,7 @@ cd backend
 
 
 Start Frontend:
+cd frontend
 npm install
 npm start
  
